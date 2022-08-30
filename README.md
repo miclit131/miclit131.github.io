@@ -4,4 +4,4 @@ Im Sommersemester 2022 haben wir uns als 4-köpfige Gruppe im Modul "Software De
 
 Das Projekt wurde mithilfe von verschiedenen Cloud Technologien von IBM wie Cloudant und Functions umgesetzt. Im Frontend wurde React und Bootstrap, mit verschiedenen libraries wie react-leaflet oder leaflet-routing-machine verwendet.
 
-Weitere Informationen sind unter ... zu finden. Die Website kann über https://miclit131.github.io/ aufgerufen werden.
+Weitere Informationen sind unter https://blog.mi.hdm-stuttgart.de/index.php/2022/08/30/google-geodata-visualizer/ zu finden. Die Website kann über https://miclit131.github.io/ aufgerufen werden.
